@@ -20,7 +20,7 @@
     "http-errors": "^1.7.2",
     "js-file-download": "^0.4.7",
     "jsonwebtoken": "^8.5.1",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "jszip": "^3.2.1",
     "jwt-decode": "^2.2.0",
     "luxon": "^1.16.0",
