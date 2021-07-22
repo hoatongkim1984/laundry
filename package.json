@@ -54,7 +54,7 @@
     "redux-form": "^8.2.0",
     "styled-components": "^4.3.0",
     "xlsjs2": "^0.7.5",
-    "xlsx": "^0.14.3"
+    "xlsx": "^0.17.0"
   },
   "scripts": {
     "start": "react-scripts start",
